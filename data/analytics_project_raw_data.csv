@@ -1,0 +1,21 @@
+order_id,order_date,customer_id,first_name,last_name,email,city,state,signup_date,product_id,product_name,category,price,quantity,total_amount
+1,2025-06-05,1,James,Carter,james.carter@email.com,Charlotte,NC,2025-01-15,1,Laptop Pro 15,Electronics,1299.99,1,1299.99
+2,2025-06-07,2,Sarah,Johnson,sarah.johnson@email.com,Raleigh,NC,2025-02-03,2,Wireless Headphones,Electronics,149.99,2,299.98
+3,2025-06-10,3,Michael,Williams,michael.williams@email.com,Atlanta,GA,2025-02-18,4,Office Chair,Furniture,249.99,1,249.99
+4,2025-06-12,4,Emily,Brown,emily.brown@email.com,Charlotte,NC,2025-03-10,7,"Monitor 27""",Electronics,329.99,2,659.98
+5,2025-06-15,5,Daniel,Davis,daniel.davis@email.com,Dallas,TX,2025-03-22,5,Standing Desk,Furniture,399.99,1,399.99
+6,2025-06-18,6,Jessica,Miller,jessica.miller@email.com,Austin,TX,2025-04-05,3,Mechanical Keyboard,Electronics,89.99,1,89.99
+7,2025-06-20,7,Christopher,Wilson,christopher.wilson@email.com,Orlando,FL,2025-04-19,6,USB-C Hub,Accessories,59.99,3,179.97
+8,2025-06-22,8,Ashley,Moore,ashley.moore@email.com,Miami,FL,2025-05-01,8,Webcam HD,Accessories,79.99,1,79.99
+9,2025-06-25,9,Matthew,Taylor,matthew.taylor@email.com,Charlotte,NC,2025-05-17,1,Laptop Pro 15,Electronics,1299.99,1,1299.99
+10,2025-06-28,10,Amanda,Anderson,amanda.anderson@email.com,Nashville,TN,2025-06-02,10,Wireless Mouse,Accessories,39.99,2,79.98
+11,2025-07-02,1,James,Carter,james.carter@email.com,Charlotte,NC,2025-01-15,9,Desk Lamp,Furniture,49.99,2,99.98
+12,2025-07-04,2,Sarah,Johnson,sarah.johnson@email.com,Raleigh,NC,2025-02-03,5,Standing Desk,Furniture,399.99,1,399.99
+13,2025-07-08,3,Michael,Williams,michael.williams@email.com,Atlanta,GA,2025-02-18,2,Wireless Headphones,Electronics,149.99,1,149.99
+14,2025-07-11,4,Emily,Brown,emily.brown@email.com,Charlotte,NC,2025-03-10,4,Office Chair,Furniture,249.99,1,249.99
+15,2025-07-14,5,Daniel,Davis,daniel.davis@email.com,Dallas,TX,2025-03-22,7,"Monitor 27""",Electronics,329.99,1,329.99
+16,2025-07-18,6,Jessica,Miller,jessica.miller@email.com,Austin,TX,2025-04-05,6,USB-C Hub,Accessories,59.99,2,119.98
+17,2025-07-21,7,Christopher,Wilson,christopher.wilson@email.com,Orlando,FL,2025-04-19,1,Laptop Pro 15,Electronics,1299.99,1,1299.99
+18,2025-07-24,8,Ashley,Moore,ashley.moore@email.com,Miami,FL,2025-05-01,3,Mechanical Keyboard,Electronics,89.99,2,179.98
+19,2025-07-27,9,Matthew,Taylor,matthew.taylor@email.com,Charlotte,NC,2025-05-17,8,Webcam HD,Accessories,79.99,2,159.98
+20,2025-07-30,10,Amanda,Anderson,amanda.anderson@email.com,Nashville,TN,2025-06-02,10,Wireless Mouse,Accessories,39.99,1,39.99
